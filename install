@@ -34,3 +34,5 @@ sudo systemctl enable --now grafana
 sudo systemctl status grafana
 
 пароль логин для доступа admin admin
+добавление источника http://127.0.0.1:9090
+нужно указывать и hhtp 
